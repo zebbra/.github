@@ -1,4 +1,4 @@
-## We make things happen
+## 🪄 We make things happen
 
 Our experience, creativity and the courage to break new ground bridge the gap between ideas and successful solutions. Overall we make change happen.
 
@@ -25,3 +25,7 @@ Creating value and never losing the big picture are key to excel in our daily wo
 ### Co-operative & Fast
 
 We shortcut problem-solving by consistently sharing our ideas and our know-how with colleagues, collaborators and partners.
+
+## 💼 Looking for a job?
+
+Have a look at our open [job positions](https://zebbra.ch/jobs) or contact us at jobs@zebbra.ch
